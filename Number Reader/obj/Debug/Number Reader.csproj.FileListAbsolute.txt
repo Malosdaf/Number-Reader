@@ -1,0 +1,106 @@
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Number Reader.exe.config
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Number Reader.exe
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Number Reader.pdb
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.csproj.AssemblyReference.cache
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.csproj.SuggestedBindingRedirects.cache
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\MainWindow.g.cs
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\App.g.cs
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader_MarkupCompile.cache
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader_MarkupCompile.lref
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\MainWindow.baml
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.g.resources
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number_Reader.Properties.Resources.resources
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.csproj.GenerateResource.cache
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.csproj.CoreCompileInputs.cache
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.exe
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.pdb
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\baFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\baMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\bảyFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\bảyMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\bốnFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\bốnMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\chínFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\chínMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\haiFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\haiMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\khôngFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\khôngMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\lẻFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\lẻMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mươiFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mươiMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mườiFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mườiMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mốtFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mốtMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mộtFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mộtMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\nghìnFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\nghìnMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\nămFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\nămMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\sáuFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\sáuMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\triệuFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\triệuMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\trămFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\trămMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\támFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\támMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\tỉFe.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\tỉMale.wav
+C:\Users\bellm\OneDrive - malosdaf\SCHOOL WORK\Tin\Project 2\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader_Content.g.cs
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\baFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\baMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\bảyFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\bảyMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\bốnFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\bốnMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\chínFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\chínMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\haiFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\haiMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\khôngFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\khôngMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\lẻFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\lẻMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mươiFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mươiMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mườiFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mườiMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mốtFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mốtMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mộtFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\mộtMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\nghìnFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\nghìnMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\nămFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\nămMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\sáuFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\sáuMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\triệuFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\triệuMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\trămFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\trămMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\támFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\támMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\tỉFe.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Sound\tỉMale.wav
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Number Reader.exe.config
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Number Reader.exe
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\bin\Debug\Number Reader.pdb
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.csproj.AssemblyReference.cache
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.csproj.SuggestedBindingRedirects.cache
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\MainWindow.g.cs
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\App.g.cs
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader_Content.g.cs
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader_MarkupCompile.cache
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader_MarkupCompile.lref
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\MainWindow.baml
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.g.resources
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number_Reader.Properties.Resources.resources
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.csproj.GenerateResource.cache
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.csproj.CoreCompileInputs.cache
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.exe
+C:\Users\bellm\Downloads\NumberReader ver 3 Đoàn Thiên Quý + Đặng Thành Phát\NumberReader ver 3 XAML\Number Reader\Number Reader\obj\Debug\Number Reader.pdb
